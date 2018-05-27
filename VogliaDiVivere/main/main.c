@@ -19,7 +19,6 @@
 
 
 #define DATA_LENGTH 112
-#define PROVA 1
 
 #define TYPE_MANAGEMENT       0x00
 #define TYPE_CONTROL          0x01
